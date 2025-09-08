@@ -1,0 +1,21 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.body {
+    grid-template-rows: 20% 60% 20%;
+    border: 1px black;
+}
+
+.header {
+    border: 1px gray;
+    display: grid;
+    grid-template-columns: 40% 60%;
+
+}
+
+.footer {
+    background-color: black;
+}
